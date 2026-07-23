@@ -2,6 +2,7 @@
   "name": "moonraker-auth",
   "title": "Moonraker Login",
   "version": "0.1.1",
+  "author": "bespoked",
   "min_daemon_version": "0.10.1-dev",
   "description": "Controls Moonraker's force_logins setting. When on, the web UI requires a login before any control; when off, local clients connect without logging in. Toggle the setting below before installing.",
   "tagline": "Require a login for the web UI, or allow open access.",
