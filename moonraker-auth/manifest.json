@@ -12,7 +12,7 @@
   "changelog": "doc/CHANGELOG.md",
   "published_at": "2026-03-15",
   "updated_at": "2026-04-02",
-  "source": "https://github.com/bespok3d-org/plugin-moonraker-auth",
+  "source": "https://github.com/Bespok3d/moonraker-auth",
   "publisher": "PLACEHOLDER",
   "provides": [
     {
