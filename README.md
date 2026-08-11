@@ -35,6 +35,9 @@ npx b3-builder build --source ./moonraker-auth --atom-repo Bespok3d/moonraker-au
 # -> dist/moonraker-auth-<ver>.b3 + dist/moonraker-auth.atom.json
 ```
 
+Writing a plugin of your own? Start at the plugin documentation:
+[Bespok3d/b3-builder/doc](https://github.com/Bespok3d/b3-builder/tree/main/doc).
+
 ## Releasing
 
 Bump `moonraker-auth/manifest.json` `version` and push the tag `plugin-<name>-v<version>` naming
